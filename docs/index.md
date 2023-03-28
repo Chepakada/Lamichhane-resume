@@ -17,6 +17,7 @@ A passionate computer scientist with a deep fascination for the endless possibil
 ## Education
 
 `2021-2025`
+
 __Brigham Young University-Idaho__, Rexburg, ID
 
 - Full academic scholarship with 3.985 GPA
@@ -29,6 +30,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 ### Computer Science Projects
 
 `Sept 2022 - Dec 2022`
+
 __Stacky__, Project Manager
 
 - Creating a inventory manager app for iOS using Swift and C# in a team of 4
@@ -36,6 +38,7 @@ __Stacky__, Project Manager
 - Developing the Backend of the project as well as assisting with the UI part too
 
 `September 2022 - Dec 2022`
+
 __Car Race Game__, Project Manager
 
 - Built a Car Race game using C# within a duration of 3 weeks
@@ -47,13 +50,16 @@ __Car Race Game__, Project Manager
 ## Service and Work History
 
 __Javascript TA__, BYU-I
+
 `Sept 2021- Jan 2022`  
 
 
 __Python TA__, BYU-I
+
 `Sept 2022- Apr 2023` 
 
 __C# TA__, BYU-I
+
 `Jan 2023- Apr 2023`
 
 <!-- ### Footer
