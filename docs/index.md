@@ -7,7 +7,7 @@ A passionate computer scientist with a deep fascination for the endless possibil
 
 <div id="webaddress">
 <a href="datascience@byui.edu">chepakada@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>  ###Get rid of this
+
 | <a href="https://www.linkedin.com/in/prashant-lamichhane/">LinkedIn</a>
 | <a href="https://github.com/Chepakada">GitHub</a>
 </div>
