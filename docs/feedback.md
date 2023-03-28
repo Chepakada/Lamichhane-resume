@@ -17,7 +17,7 @@ A passionate computer scientist with a deep fascination for the endless possibil
 ## Education
 
 `2021-2025`
-__Brigham Young University-Idaho__, Rexburg, UT  #####Rexburg, ID
+__Brigham Young University-Idaho__, Rexburg, ID
 
 - Full academic scholarship with 3.985 GPA
 
@@ -46,22 +46,15 @@ __Car Race Game__, Project Manager
 
 ## Service and Work History
 
-###I would put years and months below the titles.
-
-`2021-2022`   ###add months  
-
 __Javascript TA__, BYU-I
+`Sept 2021- Jan 2022`  
 
-
-`2022-2023`  ###add months
 
 __Python TA__, BYU-I
-
-`Jan 2023- Apr 2023`
+`Sept 2022- Apr 2023` 
 
 __C# TA__, BYU-I
-
-####Add dates for this one too
+`Jan 2023- Apr 2023`
 
 <!-- ### Footer
 

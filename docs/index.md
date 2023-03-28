@@ -7,7 +7,7 @@ A passionate computer scientist with a deep fascination for the endless possibil
 
 <div id="webaddress">
 <a href="datascience@byui.edu">chepakada@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>  ###Get rid of this
 | <a href="https://www.linkedin.com/in/prashant-lamichhane/">LinkedIn</a>
 | <a href="https://github.com/Chepakada">GitHub</a>
 </div>
@@ -17,7 +17,7 @@ A passionate computer scientist with a deep fascination for the endless possibil
 ## Education
 
 `2021-2025`
-__Brigham Young University-Idaho__, Rexburg, UT
+__Brigham Young University-Idaho__, Rexburg, ID
 
 - Full academic scholarship with 3.985 GPA
 
@@ -46,23 +46,16 @@ __Car Race Game__, Project Manager
 
 ## Service and Work History
 
-`2021-2022`
-
 __Javascript TA__, BYU-I
+`Sept 2021- Jan 2022`  
 
-
-`2022-2023`
 
 __Python TA__, BYU-I
-
-`Jan 2023- Apr 2023`
+`Sept 2022- Apr 2023` 
 
 __C# TA__, BYU-I
-
-
+`Jan 2023- Apr 2023`
 
 <!-- ### Footer
 
-Last updated: March 2022 -->
-
-
+Last updated: March 2023 -->
